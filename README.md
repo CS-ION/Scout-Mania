@@ -10,7 +10,7 @@ Top clubs recruit these youngsters based on their potential and said performance
 Scout Mania tries to counter this problem by introducing a new way of analysis in the scouting realm. Scout Mania maintains a database of young talents all around the world. Scouts from around the world are asked to register a player on the database by grading on certain attributes. Many of the attributes are general and seen in everyday football but I have introduced some new attributes of my own that will make the analysis of a player even more concise. Attributes like Movement between the lines, scanning, space identification give a greater idea of what is the play style of the said player. Scouts are highly encouraged to write their own views about the player and his play-style in the general section.
 
 ## How we built it
-I made a short non-functional prototype using Wix. Scouts can register their talents by entering their personal details, grading their attributes as well as elaborate on the preferred play-style of the player in their own words. It is a non-functional prototype made in the last moment as all my team-mates left me. 
+I made a short non-functional prototype using Wix. Scouts can register their talents by entering their personal details, grading their attributes as well as elaborate on the preferred play-style of the player in their own words. It is a non-functional prototype made in the last moment. 
 https://asadrubinara.wixsite.com/scout-mania
 
 ## Challenges we ran into
